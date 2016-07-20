@@ -1,0 +1,25 @@
+div{
+	background: yellow;
+	
+	width: 300px;
+	height: 150px;
+	border-top: 20px solid purple;
+	border-right: 10px solid purple;
+	border-left: 10px solid purple;
+	border-bottom:20px solid purple;
+	margin:120px 60px 30.5px 60px;
+	padding: 40px 20px 70px 100px;
+	border-radius: 10px;
+}
+
+body{
+	background: skyblue;
+}
+
+p{
+	
+	background: white;
+	padding: 40px 20px 70px 100px;
+	border:dashed green;
+	border-radius: 5px;
+}
